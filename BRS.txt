@@ -1,0 +1,277 @@
+A Sample BRS Document, Introduction, Scope of document, Functional Requirements, Performance Requirements, and usability Requirements.
+
+Project Admin Interface
+
+Project User Interface
+
+Business Requirements Specification 
+Contents
+
+1. The purpose of the project
+
+2. The Client, the Customer, and other stakeholders
+
+3. Users of the product
+
+4. The scope of the work
+
+5. The scope of the product
+
+6. Features and Functionalities
+
+7. Usability and Humanity Requirements
+
+8. Performance Requirements
+
+9. Approvals
+
+1.  The purpose of the Project
+a) Background of the Project Effort
+IBEE Solution (P) Ltd has planned to develop an eCommerce (Business to Customer) Portal as a product.
+
+In those days Business Promotions and Business Transactions are done through various Channels like Retail, Whole sale etc. After Internet inception the eCommerce (buying and selling Products/services over the Internet) Concept came into the picture.
+
+Now Days eCommerce is a part of every Industry’s Business, if it is a Product based or Service based this channel is very useful.
+
+Ecommerce can be broken into four main categories: B2B, B2C, C2B, and C2C.
+
+B2B (Business-to-Business) 
+Companies doing business with each other such as manufacturers selling to distributors and wholesalers selling to retailers. Pricing is based on quantity of order and is often negotiable.
+
+B2C (Business-to-Consumer) 
+Businesses selling to the general public typically through catalogs utilizing shopping cart software.
+
+Business to consumer sites is generally database-driven e-commerce sites where products are displayed in an online catalog and are stored in a database. Typically, hot new products are pulled from the database and displayed on the homepage daily. The buyer can add items from the database to the shopping cart and prices held in the database will be totaled. The site administrator can easily change product and price information.
+
+
+
+C2B (Consumer-to-Business)
+A consumer posts his project with a set budget online and within hours companies review the consumer’s requirements and bid on the project. The consumer reviews the bids and selects the company that will complete the project. Enlace empowers consumers around the world by providing the meeting ground and platform for such transactions.
+
+C2C (Consumer-to-Consumer)
+There are many sites offering free classifieds, auctions, and forums where individuals can buy and sell thanks to online payment systems like PayPal where people can send and receive money online with ease. eBay’s auction service is a great example of where person-to-person transactions take place everyday.
+
+In above areas IBEE Solution (P) Ltd has Chosen B2C category to develop a Product, As ‘Business to Customer’ area having more potentiality.
+
+b) Goals of the Project
+‘IBEE Solutions’ wants to give ‘Online Products/Services Buying and Selling Solution’ for various organizations like production oriented Industries, Services based Companies and Distributors through this Project.
+
+It (IBEE) wants to give a complete solution for Products/Services Buying &amp; Selling through Internet.
+
+Through this Solution Industries/Distributors Can Display and sell their products/Services. Customer Can See and Buy the Products/Services. It also Provides Payment Process, Shipping Process and Enquires.
+
+2.   The Client, the Customer, and other stakeholders
+2a the Client
+
+*(This item gives the name of the client. It is permissible to have several names.)*
+
+It is an In-house development of IBEE Solutions. IBEE has planed to develop this Product as per current Market trends.
+
+2b the Customer
+
+*(The person intended to buy the product. In the case of in-house development, the client and the customer are often the same person)
+
+As it was a Product, initially it hasn’t had any customers but ‘IBEE solutions’ is planning to get offers from some Organizations.
+
+2c the Stakeholders
+
+*(The roles and (if possible) names of other people and organizations who are affected by the product, or whose input is needed to build the product.)
+
+Sponsor                  :IBEE Solutions
+Testers                   :NRSTT (P) Limited
+Business analysts      :Vijay Sarma and Ram Manohar
+Technology experts   :James &amp; Suzanne Robertson
+System Analysts       :Prasanna Yadav &amp; Durga Prasad
+Marketing experts     :Venkata Murthy &amp; Kareemulla Shaik
+Legal experts           : Vihar Consultants
+Domain experts         : Atlantic Systems (P) Ltd
+Usability experts       : Skyline Technologies
+Representatives of external associations
+3. Users of the Product
+Administrator:
+
+Admin responsible for Users Management, Product Definition, adding &amp; modifying products and Services Management.
+
+Registered Users: 
+
+Registered Users can view the Catalog and get the information and also can Buy Products. As per availability they can use Payment options to make payments.
+
+They can enquire about their Status (Orders) and Cancel their Orders as per norms.
+
+Guest Users:
+
+
+Guest Users can access the Portal and view the Catalog and get the information.
+
+Guest Users can become Registered Users by submitting (filling registration form) their details through online for free of Cost.
+
+Business Users:
+
+Business users can interact with this application with their applications as per permissions and they can track permitted information.
+
+[Motivation
+
+Users are human beings who interface with the product in some way. Use the characteristics of the users to define the usability requirements for the product. Users are also known as actors.
+
+Examples
+
+Users can come from wide variety of (sometimes unexpected) sources. Consider the possibility of your users being clerical staff, shop workers, managers, highly trained operators, the general public, casual users, passers-by, illiterate people, tradesmen, students, test engineers, foreigners, children, lawyers, remote users, and people using the system over the telephone or an Internet connection, emergency workers, and so on.
+
+–
+
+4. The scope of the work
+Ecommerce simply means selling over the Internet — goods, services, information, whatever. Such businesses began in 1995 and are expected by 2008 to generate sales in the USA alone of $ 109 billion. Ecommerce
+
+How do we get our share of the action?
+
+Creating a website that promotes products
+Obtain an Internet address
+Hiring space on a web-hosting company
+Uploading pages
+Adding a payment system, and then
+Using  various promotion services to get the site noticed
+Electronic Commerce or e-commerce is the trade of products and services by means of the Internet or other computer networks. E-commerce follows the same basic principles as traditional commerce that is, buyers and sellers come together to swap commodities for money. But rather than conducting business in the traditional way in shopping stores or through mail order catalogs and telephone operators — in e-commerce buyers and sellers transact business over networked computers.
+E-commerce offers buyers maximum convenience. They can visit the web sites of multiple vendors round the clock a day to compare prices and make purchases, without having to leave their homes or offices from around the globe. In some cases, consumers can immediately obtain a product or service, such as an electronic book, a music file, or computer software, by downloading it over the Internet.
+For sellers, e-commerce offers a way to cut costs and expand their markets. They do not need to build, staff, or maintain a physical store or print and distribute mail order catalogs. Automated order tracking and billing systems cut additional labor costs, and if the product or service can be downloaded then e-commerce firms have no distribution costs involved. Because the products can be sold sell over the global Internet, sellers have the potential to market their products or services globally and are not limited by the physical location of a store. Internet technologies also permit sellers to track the interests and preferences of their customers with the customer’s permission and then use this information to build an ongoing relationship with the customer by customizing products and services to meet the customer’s needs.
+E-commerce however has some drawbacks. Consumers are hesitant to buy some products online. Online furniture businesses, for example, have failed for the most part because customers want to test the comfort of an expensive item such as a sofa before they purchase it. Many people also consider shopping a social experience. For instance, they may enjoy going to a store or a shopping mall with friends or family, an experience that they cannot duplicate online. Consumers also need to be reassured that credit card transactions are secure and that their privacy is respected.
+In the existence of these few disadvantages e-commerce has opened new horizons to versatile the modern age. It puts away time, energies, labor and money.
+
+5) The scope of the Product
+Already so many ecommerce portal products available in the market, to attract more customers ‘IBEE Solutions’ has to plan this product with more features and facilities.
+
+It should have following features:
+
+ This is one of the most basic options that help establish a framework of an Online Shopping With a simple shopping cart, catalog creation facility, a custom storefront appearance and online payment facilities it helps Online Shopping take off to efficient sales online.
+
+A product catalog that allows portal owners to create a catalog of all the products that they want to sell and display online.
+
+
+A shopping cart that allows customers to select the products of their choice and check them out at the online counter.
+
+A search facility to search for products
+
+Customer accounts: Personalized areas where members can login, register, add and delete and edit product information or any other relevant information. A web master would be in control and edit the information before publishing the information.
+
+An online payment facility that will help users pay online in a secure manner. Payment Options compatible with leading payment gateways (enter just merchant account details) to process payments online; Secure online credit cards/e-checks payments through SSL protocol and encryption of sensitive data.
+
+Currency: This feature will help to organize multiple currencies as per design and modify the exchange rates.
+
+Shipping:
+This feature will help Portal owners to integrate shipping/courier options with leading shipping service providers.
+
+Inventory online
+
+For a store with more than 1000-10000+ product and facility to stock products be it retail or wholesale.
+
+6.  Features and Functionalities
+Businesses to consumer portals are generally database-driven e-commerce sites where products are displayed in an online catalog and are stored in a database. Typically, hot new products are pulled from the database and displayed on the homepage daily. The buyer can add items from the database to the shopping cart and prices held in the database will be totaled. The site administrator can easily change product and price information.
+
+The E-commerce Portal Preferable Features are: 
+
+customer (Buyer) side:
+
+Product catalog based on Manufactures
+Product catalog based on Categories
+Product Search facility
+Advanced Product Search facility
+Reviews on Products &amp; their ratings
+Products Comparison
+Product of the Month
+Hot Products
+Products on Sale
+User Account creation
+Shopping cart status
+Selection of multiple attributes against each product (ex: size, color etc)
+Customer Business operations:
+
+Customers can create an account online for free of cost.
+Customer address books (other shipping destinations)
+Order history
+Temporary (not logged on) and permanent (logged on) shopping carts
+Search catalog for products or manufacturers or price range
+Product reviews by customers
+E-mail notifications
+The number of products in each category are shown
+Buyer Business Operations
+
+Add/Edit/Remove categories, products, manufacturers, customers, and reviews
+Categories-to-categories structure
+Statistics for products and customers
+Dynamic product attributes
+Tax zones, classes, and rates
+Attributes
+Managing Orders
+List of Other Features/Functionalities: 
+Inventory management, catalog &amp; import/export:
+
+Packing slips (fax/email delivery) for each order
+Bulk updates (amount/percentage) of products inventory
+Inventory update (CSV spreadsheet file)
+Option to disable sales of unavailable/out-of-stock
+Products reports (new arrivals, RMA, on order, in stock &amp; backordered)
+Batch printing of mailing labels &amp; returns forms
+Catalog with unlimited products and categories
+Common product structure/definition
+Ability to sell hard goods and electronic products
+Web-based file/image manager to upload files online
+Ability to set min/max quantity per order
+Unlimited attributes: images, options, files, and features
+Product reviews and custom (user defined) fields
+Different price implication for combination of options
+Easy-to-use wizard to import products/customers (CSV file
+Export customers, products &amp; invoices into QuickBooks
+Shopping cart, customer account &amp; order processing:
+Cart (sales coupon, gift note and saving for later purchase)
+Account (orders, subscriptions, payments history)
+Automatic sales receipts (#, billing/shipping info &amp; taxes)
+Invoices with payment type/delivery, discounts, etc
+Merchant sales follow-up notifications
+Ability to track orders status online
+Ability to review of outstanding/completed orders
+Sales receipts to customers &amp; merchant
+Email alerts when new orders are submitted
+Payment &amp; shipping options:
+Pre-integration with leading payment processors
+Secure online credit cards/e-checks payments
+Payments by check, credit/debit card, money order, COD
+Ability to process credit cards online
+Creation a new credit card entry with custom fields
+Multi-currency support (settlement into basic currency)
+Dynamic shipping calculation (flat, linear/table) within regions
+National/global shipping options
+Optional pre-integration with leading real-time shipping carriers (UPS, USPS, FedEx)
+Custom storefront appearance:
+Custom storefront appearance: add a logo, header/footer, etc
+Variety of pre-integrated pages
+Ability to create new custom pages
+Full customization of the presentation layer
+Any regional language (UNICODE support)
+
+System settings &amp; services:
+
+Settings (general, currency, language, etc)
+Workability with the back office on the Internet
+Web services interface to manipulate all data queries
+Fully scalable package to add any new rules
+Full 1-year subscription to upgrades/updates
+Sales management &amp; promotions:
+
+Sales journal (order &amp; refund documents) and secure download option
+Ability to accept payments online (secure transactions
+Tracking of orders received: Web, phone, fax, mail, and email
+Catalog sales with ability to create customer’s account
+Advanced search by documents, customers, suppliers &amp; products
+Intelligent search by time period (day, week, month) and transactions
+Printing/emailing of invoices and packing slips in bulk/per-order
+Management reports: sales revenues, taxes, profits &amp; payments
+Price lists for customers and membership
+Free shipping based on amount, weight and quantity
+Coupons (products range, departments/categories), rebates &amp; vouchers
+Bulk mailing campaigns to email newsletters, special offers, etc
+7.  Usability and Humanity Requirements
+Our application should have multiple ways to perform any Operation and for completing any task less number of navigations is preferable.As it is an Internet application intended users are Unlimited and Users have no limitations for accessing the application through the Internet. As our Intended Customers are from different areas and untrained, so our site must have easy navigations, attractive colors, and Understandable Screens.
+
+The application requires easy search capability to find whatever user wants and we have to provide a facility for Customers’ feedback.
+
+8. Performance Requirements
+We can’t restrict users; our application has to support Different types of environments, networks, and Internet services. The very nature of the web and the fact that different users interact differently with the application greatly affect performance. Several aspects that can affect performance including high activity and volume at launch, activity spikes due to marketing promotions, download time, Usage patterns, user arrival rates, and Internet access speeds.
